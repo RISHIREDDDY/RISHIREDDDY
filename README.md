@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hi, I'm Rishi</h1>
 
-
 ---
 
 ### 🔧 **What I'm Up To**
