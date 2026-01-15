@@ -2,11 +2,6 @@
 
 ---
 
-### 🔧 **What I'm Up To**
-- **Currently Working On:** [Skin Cancer Detection](https://github.com/RISHIREDDDY/Python-Projects/blob/main/binary_classification_on_skin_cancer.py) 🩺
-- **Currently Learning:** Full Stack Development & Data Analysis 📚
-- **Collaborating On:** [Movie Recommendation System](https://github.com/RISHIREDDDY/full_stack/blob/main/Movie_Recommendation_System_project.zip) 🎬
-- **Seeking Help With:** [Pdf Insights](https://github.com/RISHIREDDDY/Python-Projects/blob/main/pdf_insights.py) 📄
 
 ---
 
