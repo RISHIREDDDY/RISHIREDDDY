@@ -1,10 +1,5 @@
 <h1 align="center">👋 Hi, I'm Rishi</h1>
 
----
-
-
----
-
 ### 🛠️ **Tech Stack**
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
